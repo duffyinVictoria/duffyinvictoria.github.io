@@ -28,14 +28,18 @@ redirect_from:
 * Assistant Professor (Tenure Track), Department of Mathematics and Statistics, University of Saskatchewan
 * AARMS Postdoctoral Fellow, Dalhousie University
 
-**Grant Supported Teaching and Learning Innovation Projects**
+**Grant Supported Projects**
 * C Duffy, T Jalali, S Kuhlmann, J Thong, T Tran *SparkAI Powered VCE Student Revision Tools* (2025-2027)
 * C Duffy, P Fijn, R Maillairdet, A Morphett, T Tran *Next Generation Tutorial Room Development* (2022-2023)
 * C Duffy *Flipped Classroom Resources for Teaching Real Analysis* (2022)
+* C Duffy *Combinatorics of Mixed Graphs -- Homomorphism and Complexity* (2018-2023, NSERC)
+* C Duffy *Universal Targets for Mixed Graphs (2018-2020, NSERC)
+* C Duffy *Deterministic and Stochastic Discrete-Time Processes on Graphs* (2015-2017, AARMS)
   
 **Editorial and Peer Review Work** 
-* Associate Editor, Ars Combinatoria
-* Scientific Committee Member, 12th Annual International Conference on Algorithms and Discrete Applied Mathematics
+* Guest Editor, International Journal of Innovation in Science and Mathematics Education (2026)
+* * Scientific Committee Member, 12th Annual International Conference on Algorithms and Discrete Applied Mathematics (2025)
+* Associate Editor, Ars Combinatoria (2024-)
 * Peer Reviewer
   * Australasian Conference on Science and Mathematics Education
   * Australasian Society for Computers in Learning in Tertiary Education
@@ -43,7 +47,6 @@ redirect_from:
   * Journal of Combinatorial Theory B
   * Discrete Mathematics
   * Discrete Applied Mathematics
-
 
 **Publications**
   A full list of publications is available [here](/publications)
