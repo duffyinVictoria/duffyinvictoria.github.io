@@ -33,7 +33,7 @@ redirect_from:
 * C Duffy, P Fijn, R Maillairdet, A Morphett, T Tran *Next Generation Tutorial Room Development* (2022-2023)
 * C Duffy *Flipped Classroom Resources for Teaching Real Analysis* (2022)
 * C Duffy *Combinatorics of Mixed Graphs -- Homomorphism and Complexity* (2018-2023, NSERC)
-* C Duffy *Universal Targets for Mixed Graphs (2018-2020, NSERC)
+* C Duffy *Universal Targets for Mixed Graphs* (2018-2020, NSERC)
 * C Duffy *Deterministic and Stochastic Discrete-Time Processes on Graphs* (2015-2017, AARMS)
   
 **Editorial and Peer Review Work** 
