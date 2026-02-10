@@ -16,6 +16,9 @@ main:
 
   - title: "Education"
     url: /education/    
+
+  - title: "Part A"
+    url: /partA/   
     
   - title: "CV"
     url: /cv/
