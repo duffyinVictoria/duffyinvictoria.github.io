@@ -36,11 +36,13 @@ The examples below are organised thematically. Each item gives an example of how
 
 ## Mathematical Communication & Writing
 
-Read [Writing Mathematics Well (Guidelines for Good Mathematical Writing)](https://www.math.cmu.edu/~ploh/docs/good-math-writing.pdf) and write a short typed response (approximately 150–250 words) that considers:
+Read [Writing Mathematics Well (Guidelines for Good Mathematical Writing)](/WritingMathematicsWell.pdf) and write a short typed response (approximately 150–250 words) that considers:
 
 - Was there anything about the reading that you found surprising?
 - What other experiences, if any, do you have in mathematics classes where you were expected to write in full sentences as part of your solutions? Do you find it difficult to write in mathematics courses?
 - How will your approach to crafting your submission for this assignment (or for assignments this semester) change, if at all, as a result of having done this reading?
+
+For a more senior audience, the reading can be replaced with this one instead: [other link](/WritingMathematicsWell2.pdf)
 
 [Back to top](#part-a)
 
@@ -80,7 +82,7 @@ Write a short response (no more than 250 words) addressing the following questio
 ### Proof as a social compact
 
 Read the article  
-[Why Mathematical Proof Is a Social Compact (Quanta Magazine)](https://www.quantamagazine.org/why-mathematical-proof-is-a-social-compact-20201202/)  
+[Why Mathematical Proof Is a Social Compact (Quanta Magazine)](https://www.quantamagazine.org/why-mathematical-proof-is-a-social-compact-20230831/)  
 
 Write a short typed response (approximately 150 words) that considers:
 
@@ -94,7 +96,7 @@ Write a short typed response (approximately 150 words) that considers:
 
 ### Computer-assisted proofs and Preprints
 
-Read [Computer Helps Prove Long-Sought Fluid Equation Singularity (Quanta Magazine)](https://www.quantamagazine.org/computer-helps-prove-long-sought-fluid-equation-singularity-20221116/)  
+Read [Computer Proof ‘Blows Up’ Centuries-Old Fluid Equations (Quanta Magazine)](https://www.quantamagazine.org/computer-helps-prove-long-sought-fluid-equation-singularity-20221116/)  
 
 Write a short response (approximately 150 words) addressing questions such as:
 
@@ -146,7 +148,7 @@ Write a short response (approximately 150 words) that considers:
 ### Mathematical beauty
 
 Read the article  
-[How Is Math Beautiful? (Quanta Magazine)](https://www.quantamagazine.org/how-is-math-beautiful-20160229/)  
+[Two Forms of Mathematical Beauty (Quanta Magazine)](https://www.quantamagazine.org/how-is-math-beautiful-20200616/)  
 
 Write a short response (no more than 250 words) addressing questions such as:
 
@@ -161,7 +163,7 @@ Write a short response (no more than 250 words) addressing questions such as:
 ### Evaluating elegance in an argument
 
 Read the article  
-[The Simple Math Behind the Mighty Roots of Unity (Quanta Magazine)](https://www.quantamagazine.org/the-simple-math-behind-the-mighty-roots-of-unity-20190909/)  
+[The Simple Math Behind the Mighty Roots of Unity (Quanta Magazine)](https://www.quantamagazine.org/the-simple-math-behind-the-mighty-roots-of-unity-20210923/)  
 
 Write a short typed response (approximately 150 words) that considers:
 
@@ -177,7 +179,7 @@ Write a short typed response (approximately 150 words) that considers:
 
 ### Critiques of mathematics education
 
-Read [Lockhart’s Lament (PDF / Online essay)](https://www.maa.org/sites/default/files/pdf/pubs/lament.pdf) 
+Read [Lockhart’s Lament](/lockhart.pdf) 
 
 Write a short response (no more than 250 words) discussing:
 
