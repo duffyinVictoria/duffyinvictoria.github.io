@@ -115,7 +115,7 @@ paper to look? Explain why or why not. What audience do you think the preprint i
 ### Mathematical vs everyday language
 
 Read the article  
-[Why Isn’t 1 a Prime Number? (Scientific American)](https://www.scientificamerican.com/blog/roots-of-unity/why-isnt-1-a-prime-number/)  
+[Why Isn’t 1 a Prime Number? (Scientific American)](/PrimeLamb.pdf)  
 
 Write a short response (no more than 250 words) that considers:
 
