@@ -33,8 +33,8 @@ author_profile: true
 * *Education Focussed Career Pathways Workshop* (2025; Australian Conference on Science and Mathematics Education)
   * co-designed and presented with M. Salgari
 * *First Steps for Future Academics* (2025; Melbourne Centre for Studies in Higher Education)
-* *Generative AI is (not) going to ruin mathematics education* (2025; Calculus Intruction in Atlantic Canada Workshop) 
-* *AI in Higher Education* (2024; Melbourne Centre for Studies in Higher Education) [slides](/GenAIMathEd.pdf)
+* *Generative AI is (not) going to ruin mathematics education* (2025; Calculus Intruction in Atlantic Canada Workshop) [slides](/GenAIMathEd.pdf)
+* *AI in Higher Education* (2024; Melbourne Centre for Studies in Higher Education) 
   * co-designed and presented with T. Cochrane and R. Mulder
 * *AI & Assessment Design in Humanities, Arts and Social Sciences* (2024; Melbourne Centre for Studies in Higher Education)
   * co-designed and presented with T. Cochrane and R. Mulder
