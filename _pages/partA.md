@@ -5,18 +5,23 @@ permalink: /partA/
 author_profile: true
 ---
 
+In a typical mathematics curriculum, students are learn a wide about variety of mathematical ideas (e.g., definitions, theorems, techniques, etc...). 
+However, in most cases they have very few explicit opportunities to engage with ideas around culture, society and communication in mathematics.
+This webpage presents some examples of how I have incorporated some of these ideas to support student learning and to expose students at all levels and all motiviations some key ideas about the practice and culture of mathematics, and, as a corollary, how to proceed as a student studying mathematical ideas.
 
 Part A tasks are short written components embedded within technical mathematics assignments.  
 They are designed to foreground aspects of mathematical practice that are essential to the discipline, 
 but which are often implicit or invisible to students: communication, justification, judgement, 
 revision, and reflection on meaning and purpose.
+See here for an example of how this looks in practice
 
 Across subjects and year levels, these tasks invite students to engage with mathematics as something 
-done by people, for people, within a community. They sit alongside traditional problem-solving, 
+done by people, for people, within a community. 
+They sit alongside traditional problem-solving, 
 not as replacements, but as complements that make the norms and values of the discipline more explicit.
 
-The examples below are organised thematically. Each item gives the **full task description**, closely 
-aligned with how it appeared in assessments, so that tasks can be reused with minimal modification.
+The examples below are organised thematically. Each item gives an example of how the exercise was deployed in practice, permitted them to be used directly by other educators with minimal modification.
+
 
 ### Browse by task type
 
@@ -36,8 +41,7 @@ aligned with how it appeared in assessments, so that tasks can be reused with mi
 
 **Task**
 
-Download the file *Writing Mathematics Well* (or *Guidelines for Good Mathematical Writing*).  
-Read it and write a short typed response (approximately 150–250 words) that considers:
+Read [Writing Mathematics Well (Guidelines for Good Mathematical Writing)](https://www.math.cmu.edu/~ploh/docs/good-math-writing.pdf) and write a short typed response (approximately 150–250 words) that considers:
 
 - Was there anything about the reading that you found surprising?
 - What other experiences, if any, do you have in mathematics classes where you were expected to write in full sentences as part of your solutions? Do you find it difficult to write in mathematics courses?
@@ -78,7 +82,7 @@ Your reflection should address, as appropriate:
 **Task**
 
 Read the article  
-*Titans of Mathematics Clash Over Epic Proof of the ABC Conjecture* (Quanta Magazine).
+[Titans of Mathematics Clash Over Epic Proof of the ABC Conjecture (Quanta Magazine)](https://www.quantamagazine.org/titans-of-mathematics-clash-over-epic-proof-of-abc-conjecture-20180920/)  
 
 Write a short response (no more than 250 words) addressing the following questions:
 
@@ -94,7 +98,7 @@ Write a short response (no more than 250 words) addressing the following questio
 **Task**
 
 Read the article  
-*Why Mathematical Proof Is a Social Compact*.
+[Why Mathematical Proof Is a Social Compact (Quanta Magazine)](https://www.quantamagazine.org/why-mathematical-proof-is-a-social-compact-20201202/)  
 
 Write a short typed response (approximately 150 words) that considers:
 
@@ -110,12 +114,12 @@ Write a short typed response (approximately 150 words) that considers:
 
 **Task**
 
-Read an article describing the use of computers in proving major mathematical results (for example, the four-colour theorem or recent computer-assisted proofs reported in the popular press).
+Read [Computer Helps Prove Long-Sought Fluid Equation Singularity (Quanta Magazine)](https://www.quantamagazine.org/computer-helps-prove-long-sought-fluid-equation-singularity-20221116/)  
 
-Write a short response (approximately 250 words) addressing questions such as:
+Write a short response (approximately 150 words) addressing questions such as:
 
 - Why might computer-assisted proofs give mathematicians pause?
-- What do these examples suggest about the nature of proof in modern mathematics?
+- What does the approach in the article suggest about the nature of proof in modern mathematics?
 - Do you agree with the claim that without computers we would be limited to proving only theorems with short proofs?
 
 [Back to top](#part-a)
@@ -129,7 +133,7 @@ Write a short response (approximately 250 words) addressing questions such as:
 **Task**
 
 Read the article  
-*Why Isn’t 1 Prime?*
+[Why Isn’t 1 a Prime Number? (Scientific American)](https://www.scientificamerican.com/blog/roots-of-unity/why-isnt-1-a-prime-number/)  
 
 Write a short response (no more than 250 words) that considers:
 
@@ -146,7 +150,7 @@ Write a short response (no more than 250 words) that considers:
 **Task**
 
 Read the article  
-*The Jagged, Monstrous Function That Broke Calculus*.
+[The Jagged, Monstrous Function That Broke Calculus (Scientific American)](https://www.scientificamerican.com/article/the-jagged-monstrous-function-that-broke-calculus/) 
 
 Write a short response (approximately 150 words) that considers:
 
@@ -164,7 +168,7 @@ Write a short response (approximately 150 words) that considers:
 **Task**
 
 Read the article  
-*How Is Math Beautiful?*
+[How Is Math Beautiful? (Quanta Magazine)](https://www.quantamagazine.org/how-is-math-beautiful-20160229/)  
 
 Write a short response (no more than 250 words) addressing questions such as:
 
@@ -181,7 +185,7 @@ Write a short response (no more than 250 words) addressing questions such as:
 **Task**
 
 Read the article  
-*The Simple Math Behind the Mighty Roots of Unity*.
+[The Simple Math Behind the Mighty Roots of Unity (Quanta Magazine)](https://www.quantamagazine.org/the-simple-math-behind-the-mighty-roots-of-unity-20190909/)  
 
 Write a short typed response (approximately 150 words) that considers:
 
@@ -199,7 +203,7 @@ Write a short typed response (approximately 150 words) that considers:
 
 **Task**
 
-Read *Lockhart’s Lament*.
+Read [Lockhart’s Lament (PDF / Online essay)](https://www.maa.org/sites/default/files/pdf/pubs/lament.pdf) 
 
 Write a short response (no more than 250 words) discussing:
 
