@@ -11,7 +11,7 @@ This webpage presents some examples of how I have incorporated some of these ide
 I call these exercises "Part A".
 
 Part A tasks are short written components embedded within technical mathematics assignments.  They are designed to foreground aspects of mathematical practice that are essential to the discipline, but which are often implicit or invisible to students: communication, justification, judgement, 
-revision, and reflection on meaning and purpose. See [here](files/PartASample.pdf) for an example of how this looks in practice
+revision, and reflection on meaning and purpose. See [here](PartASample.pdf) for an example of how this looks in practice
 
 
 
