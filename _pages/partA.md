@@ -36,13 +36,11 @@ The examples below are organised thematically. Each item gives an example of how
 
 ## Mathematical Communication & Writing
 
-Read [Writing Mathematics Well (Guidelines for Good Mathematical Writing)](/WritingMathematicsWell.pdf) and write a short typed response (approximately 150–250 words) that considers:
+Read [Writing Mathematics Well (Guidelines for Good Mathematical Writing)](/MathWritingSu.pdf) and write a short typed response (approximately 150–250 words) that considers:
 
 - Was there anything about the reading that you found surprising?
 - What other experiences, if any, do you have in mathematics classes where you were expected to write in full sentences as part of your solutions? Do you find it difficult to write in mathematics courses?
 - How will your approach to crafting your submission for this assignment (or for assignments this semester) change, if at all, as a result of having done this reading?
-
-For a more senior audience, the reading can be replaced with this one instead: [other link](/WritingMathematicsWell2.pdf)
 
 [Back to top](#part-a)
 
