@@ -5,20 +5,20 @@ permalink: /partA/
 author_profile: true
 ---
 
-In a typical mathematics curriculum, students are learn a wide about variety of mathematical ideas (e.g., definitions, theorems, techniques, etc...). 
+In a typical mathematics curriculum/subject, students learn a wide about variety of mathematical ideas (e.g., definitions, theorems, techniques, etc...). 
 However, in most cases they have very few explicit opportunities to engage with ideas around culture, society and communication in mathematics.
 This webpage presents some examples of how I have incorporated some of these ideas to support student learning and to expose students at all levels and all motiviations some key ideas about the practice and culture of mathematics, and, as a corollary, how to proceed as a student studying mathematical ideas.
 I call these exercises "Part A".
 
-Part A tasks are short written components embedded within technical mathematics assignments.  They are designed to foreground aspects of mathematical practice that are essential to the discipline, 
+Part A tasks are short written components embedded within technical mathematics assignments.  
+They are designed to foreground aspects of mathematical practice that are essential to the discipline, 
 but which are often implicit or invisible to students: communication, justification, judgement, 
 revision, and reflection on meaning and purpose.
 See here for an example of how this looks in practice
 
 Across subjects and year levels, these tasks invite students to engage with mathematics as something 
 done by people, for people, within a community. 
-They sit alongside traditional problem-solving, 
-not as replacements, but as complements that make the norms and values of the discipline more explicit.
+They sit alongside traditional problem-solving, not as replacements, but as complements that make the norms and values of the discipline more explicit.
 
 The examples below are organised thematically. Each item gives an example of how the exercise was deployed in practice, permitted them to be used directly by other educators with minimal modification.
 
