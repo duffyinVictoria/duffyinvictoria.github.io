@@ -34,8 +34,6 @@ The examples below are organised thematically. Each item gives an example of how
 
 ## Mathematical Communication & Writing
 
-**Task**
-
 Read [Writing Mathematics Well (Guidelines for Good Mathematical Writing)](https://www.math.cmu.edu/~ploh/docs/good-math-writing.pdf) and write a short typed response (approximately 150–250 words) that considers:
 
 - Was there anything about the reading that you found surprising?
@@ -46,12 +44,10 @@ Read [Writing Mathematics Well (Guidelines for Good Mathematical Writing)](https
 
 ---
 
-**Task**
-
 In the place you downloaded this file you will find a number of sample solutions for a problem on the previous assignment.
 
 1. Write a short (100 words) "peer review" of each of the sample solutions. Comment on correctness and clarity.
-2. Prepare a **new version of your solution**, and  
+2. Prepare a new version of your solution, and  
 3. Write a short reflection (approximately 100 words) commenting on how your revised solution differs from your initial solution.
 
 Your reflection should address, as appropriate:
@@ -66,8 +62,6 @@ Your reflection should address, as appropriate:
 ---
 
 ## Proof, Justification, and Legitimacy
-
-**Task**
 
 Read the article  
 [Titans of Mathematics Clash Over Epic Proof of the ABC Conjecture (Quanta Magazine)](https://www.quantamagazine.org/titans-of-mathematics-clash-over-epic-proof-of-abc-conjecture-20180920/)  
@@ -131,7 +125,7 @@ Write a short response (no more than 250 words) that considers:
 ### Historical development of definitions
 
 Read the article  
-[The Jagged, Monstrous Function That Broke Calculus (Scientific American)](https://www.scientificamerican.com/article/the-jagged-monstrous-function-that-broke-calculus/) 
+[The Jagged, Monstrous Function That Broke Calculus (Quanta Magazine)](https://www.quantamagazine.org/the-jagged-monstrous-function-that-broke-calculus-20250123/) 
 
 Write a short response (approximately 150 words) that considers:
 
