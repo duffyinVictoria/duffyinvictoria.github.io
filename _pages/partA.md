@@ -11,7 +11,9 @@ This webpage presents some examples of how I have incorporated some of these ide
 I call these exercises "Part A".
 
 Part A tasks are short written components embedded within technical mathematics assignments.  They are designed to foreground aspects of mathematical practice that are essential to the discipline, but which are often implicit or invisible to students: communication, justification, judgement, 
-revision, and reflection on meaning and purpose. See here for an example of how this looks in practice
+revision, and reflection on meaning and purpose. See [here](files/PartASample.pdf) for an example of how this looks in practice
+
+
 
 Across subjects and year levels, these tasks invite students to engage with mathematics as something 
 done by people, for people, within a community. 
@@ -77,7 +79,6 @@ Write a short response (no more than 250 words) addressing the following questio
 
 ### Proof as a social compact
 
-
 Read the article  
 [Why Mathematical Proof Is a Social Compact (Quanta Magazine)](https://www.quantamagazine.org/why-mathematical-proof-is-a-social-compact-20201202/)  
 
@@ -91,15 +92,19 @@ Write a short typed response (approximately 150 words) that considers:
 
 ---
 
-### Computer-assisted proofs
+### Computer-assisted proofs and Preprints
 
 Read [Computer Helps Prove Long-Sought Fluid Equation Singularity (Quanta Magazine)](https://www.quantamagazine.org/computer-helps-prove-long-sought-fluid-equation-singularity-20221116/)  
 
 Write a short response (approximately 150 words) addressing questions such as:
 
-- Why might computer-assisted proofs give mathematicians pause?
-- What does the approach in the article suggest about the nature of proof in modern mathematics?
-- Do you agree with the claim that without computers we would be limited to proving only theorems with short proofs?
+- The article discusses the idea of a computer assisted proof. Given what you have learned
+about the nature of proof in mathematics this semester, why should the idea of a
+computer assisted proof give you pause?
+The first line in the article gives a preprint for the paper that is discussed in this article.
+– Do an internet search to figure out what a preprint is. Why do you think these
+authors would publish a preprint of their work? Access the preprint. Does it look the way you would expect a mathematical research
+paper to look? Explain why or why not. What audience do you think the preprint is written for?
 
 [Back to top](#part-a)
 
