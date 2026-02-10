@@ -229,8 +229,6 @@ Choose a question from a previous assignment or test that you did not receive fu
    - What do you now understand that you did not understand at the time?
    - How can you avoid making similar errors in future assessments?
 
-In some offerings, this task is optional and assessed as bonus marks.
-
 [Back to top](#part-a)
 
 ---
@@ -256,7 +254,7 @@ Write a short reflective response (approximately 150–250 words) addressing:
 
 - An idea you learned in this subject that you found particularly interesting.
 - Why you found it interesting.
-- What this idea tells you about doing or creating mathematics.
+- What this idea tells you about doing or creating mathematics and how doing mathematics is a separate act from computation.
 
 [Back to top](#part-a)
 
