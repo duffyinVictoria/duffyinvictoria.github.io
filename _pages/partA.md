@@ -10,11 +10,8 @@ However, in most cases they have very few explicit opportunities to engage with 
 This webpage presents some examples of how I have incorporated some of these ideas to support student learning and to expose students at all levels and all motiviations some key ideas about the practice and culture of mathematics, and, as a corollary, how to proceed as a student studying mathematical ideas.
 I call these exercises "Part A".
 
-Part A tasks are short written components embedded within technical mathematics assignments.  
-They are designed to foreground aspects of mathematical practice that are essential to the discipline, 
-but which are often implicit or invisible to students: communication, justification, judgement, 
-revision, and reflection on meaning and purpose.
-See here for an example of how this looks in practice
+Part A tasks are short written components embedded within technical mathematics assignments.  They are designed to foreground aspects of mathematical practice that are essential to the discipline, but which are often implicit or invisible to students: communication, justification, judgement, 
+revision, and reflection on meaning and purpose. See here for an example of how this looks in practice
 
 Across subjects and year levels, these tasks invite students to engage with mathematics as something 
 done by people, for people, within a community. 
