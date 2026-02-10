@@ -24,7 +24,7 @@ redirect_from:
 * Member, Australian Mathematical Society
 
 **Previous Appointments**
-* Academic Lead, Graduate Researcher Pathways, Chancellery Research and Enterprise, Univeristy of Melbourne
+* Academic Lead, Graduate Researcher Pathways, Chancellery Research and Enterprise, University of Melbourne
 * Senior Academic Fellow, Centre for Studies in Higher Education, Univeristy of Melbourne
 * Assistant Professor (Tenure Track), Department of Mathematics and Statistics, University of Saskatchewan
 * AARMS Postdoctoral Fellow, Dalhousie University
