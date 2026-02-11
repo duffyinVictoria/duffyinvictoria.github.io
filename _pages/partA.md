@@ -16,7 +16,7 @@ revision, and reflection on meaning and purpose. See [here](/PartASample.pdf) fo
 Across subjects and year levels, these tasks invite students to engage with mathematics as something 
 done by people, for people, within a community. These tasks sit alongside traditional problem-solving, not as replacements, but as complements that make the norms and values of the discipline more explicit.
 
-More information on this approach can be found on this [poster](/ACSME Poster.pdf) I prepared with a colleague, Dr Sally Kuhlmann, for the Australian Conference on Science and Matheamtics Education 
+More information on this approach can be found on this [poster](/ACSMEPoster.pdf) I prepared with a colleague, Dr Sally Kuhlmann, for the Australian Conference on Science and Matheamtics Education 
 
 ### Browse by task type
 
