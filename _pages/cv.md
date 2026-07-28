@@ -40,7 +40,7 @@ redirect_from:
   
 **Editorial and Peer Review Work** 
 * Guest Editor, International Journal of Innovation in Science and Mathematics Education (2026)
-* Scientific Committee Member, 12th Annual International Conference on Algorithms and Discrete Applied Mathematics (2025)
+* Scientific Committee Member, Annual International Conference on Algorithms and Discrete Applied Mathematics (2025-)
 * Associate Editor, Ars Combinatoria (2024-)
 * Peer Reviewer
   * Australasian Conference on Science and Mathematics Education
