@@ -18,7 +18,8 @@ redirect_from:
 * Senior Lecturer, School of Mathematics and Statistics, Univeristy of Melbourne
 * Assistant Dean (Global Enagement), Faculty of Science, Univeristy of Melbourne
 
-**Affliations and Memberships**
+**Affliations, Memberships and Designations**
+* Senior Fellow, Advance HE
 * Research Associate, Centre for Studies in Higher Education, University of Melbourne
 * Member, Combinatorial Mathematics Society of Australasia
 * Member, Australian Mathematical Society
