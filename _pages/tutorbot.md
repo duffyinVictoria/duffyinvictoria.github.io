@@ -19,7 +19,7 @@ The prompt that defines the parameter of the conversation is structured as follo
 1. Define the role of the tutor bot
 2. Outline areas to review
 3. Define standards and norms for communication
-4. Areas to review, including sample questions.
+4. Details of areas to review, including sample questions.
 
 The prompt that runs the ChatGPT Tutor Bot can be downloaded here: [Tutor Bot Prompt](/botprompt.txt)
 Pasting this prompt into any Generative AI system should yield an experience similar to running the ChatGPT Tutor Bot.
